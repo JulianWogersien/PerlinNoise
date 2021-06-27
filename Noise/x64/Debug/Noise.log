@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\Julian\source\repos\Noise\Noise\src\Main.cpp(54,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Julian\source\repos\Noise\Noise\src\Main.cpp(99,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Julian\source\repos\Noise\Noise\src\Main.cpp(220,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Julian\source\repos\Noise\Noise\src\Main.cpp(242,31): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Julian\source\repos\Noise\Noise\src\Main.cpp(243,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Julian\source\repos\Noise\Noise\src\Main.cpp(295,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Julian\source\repos\Noise\Noise\src\Main.cpp(322,51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Julian\source\repos\Noise\Noise\src\Main.cpp(323,51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Noise.vcxproj -> C:\Users\Julian\source\repos\Noise\x64\Debug\Noise.exe
