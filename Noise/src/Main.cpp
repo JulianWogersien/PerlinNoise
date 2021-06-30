@@ -278,6 +278,13 @@ int main()
         previousTime = currentTime;
     }
 
+    delete[] noiseSeed1D;
+    delete[] noiseSeed2D;
+    delete[] perlinNoise1D;
+    delete[] perlinNoise2D;
+    delete[] pixels;
+    delete[] pixels2D;
+
     return 0;
 }
 
